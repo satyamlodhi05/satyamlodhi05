@@ -1,5 +1,7 @@
 <!-- ![logo](https://github.com/hariom40290/hariom40290/blob/main/hariom-banner.png) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Satyam+Narwariya;UI/UX Designer+Web Designer+Graphic Designer;" alt="Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Satyam+Narwariya;UI%2FUX+Designer;Web+Designer" alt="Typing Animation" />
+</p>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 <p align="center">I design intuitive and modern user interfaces that people love.</p>
 
@@ -7,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom40290&label=Profile%20views&color=0e75b6&style=flat" alt="hariom40290" /> </p>
 
-- 🔭 I’m currently working on [Media Tech Temple](https://fusion24x7.com/) <br/>
+- 🔭 I’m currently working on [Media Tech Temple](https://www.mediatechtemple.com/) <br/>
 
 - 🌱 I’m currently learning **Js, React** <br/>
 
