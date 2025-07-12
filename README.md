@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/hariom40290/hariom40290/blob/main/hariom-banner.png) -->
+![logo](https://github.com/satyamlodhi05/satyamlodhi05/blob/main/Satyam-Github-Banner.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Satyam+Narwariya;UI%2FUX+Designer;Web+Designer" alt="Typing Animation" />
 </p>
