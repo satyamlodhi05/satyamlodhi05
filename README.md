@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom40290&label=Profile%20views&color=0e75b6&style=flat" alt="hariom40290" /> </p>
 
-- 🔭 I’m currently working on [Fusion](https://fusion24x7.com/) <br/>
+- 🔭 I’m currently working on [Media Tech Temple](https://fusion24x7.com/) <br/>
 
 - 🌱 I’m currently learning **Js, React** <br/>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/satyam-narwariya-149685254/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="satyam_40290" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satyam-narwariya-149685254/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="satyam_40290" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
