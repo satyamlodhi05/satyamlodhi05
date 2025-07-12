@@ -1,5 +1,5 @@
 <!-- ![logo](https://github.com/hariom40290/hariom40290/blob/main/hariom-banner.png) -->
-<h1 align="center">Hi 👋, I'm Satyam Narwariya</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Satyam+Narwariya;UI/UX Designer+Web Designer+Graphic Designer;" alt="Typing Animation" />
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 <p align="center">I design intuitive and modern user interfaces that people love.</p>
 
